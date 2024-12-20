@@ -15,7 +15,7 @@ I am Rodro karmakar, a frontend developer who is trying to learn something every
 
 - ⚡Fun Fact: I get peace by solving problems <br/>
 
-- Portfolio here: https://rodrokarmakar-beta.vercel.app/
+- Portfolio here: https://rodro-seven.vercel.app/
   
 
 <br/>  
