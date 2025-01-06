@@ -1,4 +1,4 @@
-<img title="" src="Linkden-Banner (1).png" alt="Rodro's Github Banner" >
+<img title="" src="cover.png" alt="Rodro's Github Banner" >
    
 
 ### Hi there👋  
@@ -32,11 +32,8 @@ I am Rodro karmakar, a frontend developer who is trying to learn something every
 <table border="0">
     
   <tr>
-    <td>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodro-Kumar&show_icons=true&locale=en" alt="Rodro-Kumar" /></p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodro&hide_border=true&layout=compact" align="left" />  
-  </td>
-     <td>
+
+<td>
         <a href="https://app.daily.dev/rodrokarmakar"><img src="https://api.daily.dev/devcards/v2/9VMcwFLiE9r1TIWP2Gbyh.png?type=default&r=dzx" width="356" alt="Rodro Karmakar's Dev Card"/></a>
      </td>
   </tr>
