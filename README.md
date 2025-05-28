@@ -18,7 +18,11 @@ I am Rodro karmakar, a frontend developer who is trying to learn something every
 - Portfolio here: https://rodro.vercel.app/
   
 
+<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/rodrokarmakar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/rodrokarmakar" /></a></p><br><br>
+
 <br/>  
+
+
 
 
 ## 👨‍💻 Skills & Experience:
