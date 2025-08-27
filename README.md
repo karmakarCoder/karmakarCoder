@@ -27,8 +27,6 @@
 - 🤝 Open to collaborations on meaningful open-source projects and startups.
 - 🧠 Passionate about clean code, developer experience, and design systems.
 
-<a href="https://app.daily.dev/rodrokarmakar"><img src="https://api.daily.dev/devcards/v2/9VMcwFLiE9r1TIWP2Gbyh.png?type=default&r=71w" width="356" alt="Rodro Karmakar's Dev Card"/></a>
-
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
