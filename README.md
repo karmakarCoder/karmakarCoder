@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <!-- Hero Section -->
-<h1 align="center">Hi 👋, I'm Rodro Karmakar</h1>
+<h1 align="center">Hi, I'm Rodro Karmakar</h1>
 <h3 align="center">💻 Frontend Developer | ⚙️ Problem Solver | 🌍 Open Source Contributor</h3>
 
 <p align="center">
@@ -34,15 +34,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,firebase,tailwind,bootstrap,figma,git,github,vscode,postman" />
 </p>
-
-
-
-## 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarmakarCoder&theme=react-dark&hide_border=true" />
-</p>
-
 
 
 ## ✨ Featured Projects
