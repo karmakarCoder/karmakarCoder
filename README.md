@@ -47,7 +47,7 @@
 
 ## 📫 How to Reach Me
 
-- 🔗 Website: [Rodro Karmakar](https://rodro.vercel.app)
+- 🔗 Website: [developer.rodro.com](https://rodro.vercel.app)
 - ✉️ Email: [dev.rodro@gmail.com](dev.rodro@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/rodrokarmakar](https://linkedin.com/in/rodrokarmakar)
 
