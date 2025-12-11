@@ -1,5 +1,5 @@
 <!-- GitHub Profile README -->
-   <img alt="Portfolio" src="/banner.jpg" />
+   <img alt="Portfolio" src="/banner_rodro.png" />
 <!-- Hero Section -->
 <h1 align="center">Hi, I'm Rodro Karmakar</h1>
 <h3 align="center">💻 Frontend Developer | ⚙️ Problem Solver | 🌍 Open Source Contributor</h3>
