@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-- 🎯 Currently focused on **[Trucklink Guyana](https://craigharlequin-next-js.vercel.app)** – a powerful tool for logistics and transport operations.
+- 🎯 Currently building **[KTA+](https://kalekneale-react-frontend.vercel.app)** – faith-centered education ecosystem that integrates curriculum, live teaching, bundles, communities, podcasts, and marketplace features.
 - 📚 Continuously exploring **Next.js**, **AI APIs**, and **Cloud Infrastructure**.
 - 🤝 Open to collaborations on meaningful open-source projects and startups.
 - 🧠 Passionate about clean code, developer experience, and design systems.
