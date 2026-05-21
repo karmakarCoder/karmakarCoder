@@ -30,7 +30,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,firebase,tailwind,bootstrap,figma,git,github,vscode,postman,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,postgres,firebase,tailwind,bootstrap,figma,git,github,vscode,postman,vite" />
 </p>
 
 
