@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-- 🎯 Currently building **[KTA+](https://kalekneale-react-frontend.vercel.app)** – faith-centered education ecosystem that integrates curriculum, live teaching, bundles, communities, podcasts, and marketplace features.
+- 🎯 Currently building **[KTA+](https://app.ktaplus.io)** – faith-centered education ecosystem that integrates curriculum, live teaching, bundles, communities, podcasts, and marketplace features.
 - 📚 Continuously exploring **Next.js**, **AI APIs**, and **Cloud Infrastructure**.
 - 🤝 Open to collaborations on meaningful open-source projects and startups.
 - 🧠 Passionate about clean code, developer experience, and design systems.
